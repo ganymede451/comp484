@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.DS_Store
+output/
+edges2shoes/
+*.keras
+checkpoints/
+*.tar.gz
+.ipynb_checkpoints/
+venv/
+.env
+# model outputs
+*.h5
+saved_model/
+output/
+loss_history.txt
