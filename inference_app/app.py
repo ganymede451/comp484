@@ -295,3 +295,4 @@ class Pix2PixApp(tk.Tk):
 
 if __name__ == "__main__":
     Pix2PixApp().mainloop()
+# inference skeleton
