@@ -177,3 +177,4 @@ if __name__=="__main__": main()
 # generator defined
 # discriminator
 # loss functions
+# full train loop
