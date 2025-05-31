@@ -178,3 +178,4 @@ if __name__=="__main__": main()
 # discriminator
 # loss functions
 # full train loop
+# resume flag
