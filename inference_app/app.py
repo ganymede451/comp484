@@ -297,3 +297,4 @@ if __name__ == "__main__":
     Pix2PixApp().mainloop()
 # inference skeleton
 # full inference UI
+# UI polish
