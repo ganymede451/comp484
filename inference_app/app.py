@@ -299,3 +299,4 @@ if __name__ == "__main__":
 # full inference UI
 # UI polish
 # thumbnail fix
+# clean final pass
