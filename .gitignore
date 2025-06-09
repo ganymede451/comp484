@@ -14,3 +14,4 @@ venv/
 saved_model/
 output/
 loss_history.txt
+*.h5
