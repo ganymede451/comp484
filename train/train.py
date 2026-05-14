@@ -179,3 +179,4 @@ if __name__=="__main__": main()
 # loss functions
 # full train loop
 # resume flag
+# data pipeline
