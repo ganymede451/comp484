@@ -180,3 +180,4 @@ if __name__=="__main__": main()
 # full train loop
 # resume flag
 # data pipeline
+# architecture blocks
