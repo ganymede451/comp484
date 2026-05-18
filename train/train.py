@@ -182,3 +182,4 @@ if __name__=="__main__": main()
 # data pipeline
 # architecture blocks
 # generator defined
+# discriminator
