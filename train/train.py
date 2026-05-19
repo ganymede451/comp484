@@ -183,3 +183,4 @@ if __name__=="__main__": main()
 # architecture blocks
 # generator defined
 # discriminator
+# loss functions
