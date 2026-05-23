@@ -305,3 +305,4 @@ if __name__ == "__main__":
 # UI polish
 # thumbnail fix
 # clean final pass
+# inference skeleton
