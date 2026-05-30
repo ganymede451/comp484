@@ -301,3 +301,4 @@ if __name__ == "__main__":
 # thumbnail fix
 # clean final pass
 # inference skeleton
+# full inference UI
