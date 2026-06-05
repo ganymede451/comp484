@@ -308,3 +308,4 @@ if __name__ == "__main__":
 # inference skeleton
 # full inference UI
 # UI polish
+# thumbnail fix
