@@ -16,3 +16,4 @@ output/
 loss_history.txt
 *.h5
 *.h5
+*.h5
