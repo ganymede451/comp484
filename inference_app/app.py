@@ -138,7 +138,7 @@ class Pix2PixApp(tk.Tk):
 
         row = tk.Frame(parent, bg=BG_DARK)
         row.pack(fill="both", expand=True)
-
+#works
         def make_card(par):
             card = tk.Frame(par, bg=BG_CARD, highlightthickness=1, highlightbackground=BORDER)
             card.pack(side="left", fill="both", expand=True, padx=6)
